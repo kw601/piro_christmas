@@ -23,7 +23,7 @@ class EventPlannerModelTest {
 //        EventPlannerModel model = new EventPlannerModel();
 //        InputView inputView = new InputView();
 //
-//        Date testDate = inputView.inputVisitDate("25");  // 입력값을 "25"로 가정
+//        Date testDate = inputView.inputVisitDate(25);  // 입력값을 "25"로 가정
 //
 //        model.setVisitDate(testDate);
 //

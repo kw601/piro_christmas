@@ -41,7 +41,7 @@ public class EventPlannerController {
         outputView.printEventGreetings();
 
         // 1. 총 가격이 이벤트 시작 가격(10,000)보다 적을 경우
-
+        // -> 각 단계에서 처리함
         // 2. 증정 메뉴
         outputView.printGivingMenu(beforeDiscountPrice);
         // 3. 이벤트 계산
